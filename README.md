@@ -46,14 +46,6 @@ DiceGame/
 
 ---
 
-## ▶️ How to Run Locally
-
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/DiceGame.git
-Open the project folder
-Open index.html in your browser
-
 🎯 Features
 🎲 Random dice generation
 🧑‍🤝‍🧑 Two-player comparison
